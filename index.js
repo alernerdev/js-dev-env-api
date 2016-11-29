@@ -7,7 +7,7 @@ app.use(cors());
 app.set('port', (process.env.PORT || 5000));
 
 app.get('/', function(request, response) {
-  response.send('Hello World!')
+  response.send('Hello.  This is my server responding to rest api calls.   Try this url+/users');
 });
 
 app.get('/users', function(req, res) {
