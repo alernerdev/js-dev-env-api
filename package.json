@@ -1,7 +1,7 @@
 {
   "name": "node-api-example",
   "version": "1.0.0",
-  "description": "A simple API built in Node and Express hosted on Heroku",
+  "description": "A simple API built in Node and Express hosted on Heroku ",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
